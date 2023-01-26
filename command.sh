@@ -8,4 +8,4 @@ git commit -A
 # Updated logo and link
 git branch update_logo
 git commit -A
-
+gh pr create
